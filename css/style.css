@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+}
+.container{
+    width: 700px;
+    margin: auto;
+    background-color: red(227, 231, 123);
+}
+header h1{
+    font-size: 50px;
+    margin-left: 30px;
+}
+.header ul li{
+    display: inline-block;
+    margin-left: 30px;
+}
+.cover{
+    height: 600px;
+    width: 900px;
+    background-image: url(/img/alam.jpg);
+    
+}
+.content h1{
+    font-size: 40px;
+    margin-left: 30px;
+}
+.content h4{
+    margin-left: 30px;
+}
+.content p{
+    margin-left: 30px;
+}
+.footer{
+    background-color: brown;
+    text-align: center;
+    color: aquamarine;
+    margin-top: 25px;
+}
+.footer p {
+    font-size: 12px;
+}
